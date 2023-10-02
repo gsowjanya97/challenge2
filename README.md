@@ -1,0 +1,1 @@
+# PowerShell Script to read meta-data for Azure instances
